@@ -54,3 +54,16 @@ start // Object {line: 1, column: 5}
   * 函数参数的默认值
   * 遍历Map结构
   * 输入模块的指定方法
+
+###### 字符串的扩展
+
+1. 字符的 Unicode 表示法
+2. codePointAt()
+3. String.fromCodePoint()
+4. 字符串的遍历器接口
+5. normalize()
+6. includes(), startsWith(), endsWith()
+7. repeat()
+8. padStart()，padEnd()
+9. matchAll()
+10. 模板字符串
